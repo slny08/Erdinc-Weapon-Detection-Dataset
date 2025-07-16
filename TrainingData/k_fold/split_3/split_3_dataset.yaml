@@ -1,0 +1,9 @@
+names:
+- bazooka
+- grenade
+- knife
+- pistol
+- rifle
+path: /content/drive/MyDrive/ColabNotebooks/Dataset/Dataset/Data/TrainingData/k_Fold/split_3
+train: train
+val: val
