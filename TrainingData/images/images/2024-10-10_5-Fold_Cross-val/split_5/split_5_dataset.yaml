@@ -1,0 +1,9 @@
+names:
+- bazooka
+- grenade
+- knife
+- pistol
+- rifle
+path: /content/drive/MyDrive/Colab Notebooks/Dataset/Dataset/TrainingData/images/2024-10-10_5-Fold_Cross-val/split_5
+train: train
+val: val
