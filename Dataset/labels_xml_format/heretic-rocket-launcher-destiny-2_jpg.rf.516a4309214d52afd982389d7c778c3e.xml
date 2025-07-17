@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>heretic-rocket-launcher-destiny-2_jpg.rf.516a4309214d52afd982389d7c778c3e.jpg</filename>
+	<path>heretic-rocket-launcher-destiny-2_jpg.rf.516a4309214d52afd982389d7c778c3e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bazooka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>3</xmin>
+			<xmax>641</xmax>
+			<ymin>97</ymin>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

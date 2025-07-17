@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Kahix_Rocket_Launcher_2018-06-28_ATV_png.rf.a59942793e6714315657523f92c3bdb8.jpg</filename>
+	<path>Kahix_Rocket_Launcher_2018-06-28_ATV_png.rf.a59942793e6714315657523f92c3bdb8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bazooka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>18</xmin>
+			<xmax>596</xmax>
+			<ymin>142</ymin>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

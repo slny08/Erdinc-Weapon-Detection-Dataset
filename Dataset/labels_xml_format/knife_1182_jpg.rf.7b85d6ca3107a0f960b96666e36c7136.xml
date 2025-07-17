@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>knife_1182_jpg.rf.7b85d6ca3107a0f960b96666e36c7136.jpg</filename>
+	<path>knife_1182_jpg.rf.7b85d6ca3107a0f960b96666e36c7136.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>125</xmin>
+			<xmax>151</xmax>
+			<ymin>287</ymin>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

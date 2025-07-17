@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>RPG-30_grenade_launcher_at_Interpolitex-2016_01_jpg.rf.b5b6f4d873ff6aacd545deeb806e4b7b.jpg</filename>
+	<path>RPG-30_grenade_launcher_at_Interpolitex-2016_01_jpg.rf.b5b6f4d873ff6aacd545deeb806e4b7b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bazooka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>582</xmax>
+			<ymin>3</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

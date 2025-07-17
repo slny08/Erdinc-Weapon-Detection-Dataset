@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>rifle_1901_jpg.rf.d5dda2bf5772e9814cb33bd9ea52df3d.jpg</filename>
+	<path>rifle_1901_jpg.rf.d5dda2bf5772e9814cb33bd9ea52df3d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>52</xmin>
+			<xmax>604</xmax>
+			<ymin>328</ymin>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

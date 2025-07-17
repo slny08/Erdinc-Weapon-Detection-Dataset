@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>military-shooting-rpg-anti-tank-grenade-launcher-lying-on-the-sand-war-trophy-military-supplies-of-heavy-weapons-2HJEGMW_jpg.rf.ddee04863fc3719b6ea06d717522ae8b.jpg</filename>
+	<path>military-shooting-rpg-anti-tank-grenade-launcher-lying-on-the-sand-war-trophy-military-supplies-of-heavy-weapons-2HJEGMW_jpg.rf.ddee04863fc3719b6ea06d717522ae8b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bazooka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>62</xmin>
+			<xmax>608</xmax>
+			<ymin>77</ymin>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

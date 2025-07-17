@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>image10031-3-_jpg.rf.ed5db619f1fb458743fb6ebd7ef47e69.jpg</filename>
+	<path>image10031-3-_jpg.rf.ed5db619f1fb458743fb6ebd7ef47e69.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bazooka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>257</xmin>
+			<xmax>560</xmax>
+			<ymin>1</ymin>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

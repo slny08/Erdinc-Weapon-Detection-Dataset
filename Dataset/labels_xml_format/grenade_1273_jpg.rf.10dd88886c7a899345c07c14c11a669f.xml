@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>grenade_1273_jpg.rf.10dd88886c7a899345c07c14c11a669f.jpg</filename>
+	<path>grenade_1273_jpg.rf.10dd88886c7a899345c07c14c11a669f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grenade</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>190</xmax>
+			<ymin>308</ymin>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

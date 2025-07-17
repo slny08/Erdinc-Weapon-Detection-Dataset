@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>rocket-launcher-6NBUpP_png.rf.0d0feeae9bbaca86a8e7647b02e8bd0b.jpg</filename>
+	<path>rocket-launcher-6NBUpP_png.rf.0d0feeae9bbaca86a8e7647b02e8bd0b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bazooka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>10</xmin>
+			<xmax>641</xmax>
+			<ymin>198</ymin>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>RPG-26_real_life_jpg.rf.c796a30afaa22472f5e3d351244146b5.jpg</filename>
+	<path>RPG-26_real_life_jpg.rf.c796a30afaa22472f5e3d351244146b5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bazooka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>7</xmin>
+			<xmax>633</xmax>
+			<ymin>32</ymin>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>tabanca482_jpg.rf.cf13128ec5a9d02007650a0e37170f3c.jpg</filename>
+	<path>tabanca482_jpg.rf.cf13128ec5a9d02007650a0e37170f3c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>15</xmin>
+			<xmax>620</xmax>
+			<ymin>6</ymin>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+</annotation>

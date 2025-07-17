@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Grenade_launchers_RPG-26_jpg.rf.d9820ada908ee3ac065f653a6e11d1ba.jpg</filename>
+	<path>Grenade_launchers_RPG-26_jpg.rf.d9820ada908ee3ac065f653a6e11d1ba.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bazooka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>8</xmin>
+			<xmax>641</xmax>
+			<ymin>175</ymin>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

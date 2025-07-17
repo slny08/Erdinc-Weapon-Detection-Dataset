@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>self-propelled-rocket-launcher-mm-m-oganj-45695441_jpg.rf.399524feb879ca8aa85965a97ec67bdb.jpg</filename>
+	<path>self-propelled-rocket-launcher-mm-m-oganj-45695441_jpg.rf.399524feb879ca8aa85965a97ec67bdb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bazooka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>25</xmin>
+			<xmax>601</xmax>
+			<ymin>74</ymin>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

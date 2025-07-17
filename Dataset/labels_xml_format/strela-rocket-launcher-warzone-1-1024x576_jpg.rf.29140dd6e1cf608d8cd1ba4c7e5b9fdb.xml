@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>strela-rocket-launcher-warzone-1-1024x576_jpg.rf.29140dd6e1cf608d8cd1ba4c7e5b9fdb.jpg</filename>
+	<path>strela-rocket-launcher-warzone-1-1024x576_jpg.rf.29140dd6e1cf608d8cd1ba4c7e5b9fdb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bazooka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>82</xmin>
+			<xmax>554</xmax>
+			<ymin>158</ymin>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

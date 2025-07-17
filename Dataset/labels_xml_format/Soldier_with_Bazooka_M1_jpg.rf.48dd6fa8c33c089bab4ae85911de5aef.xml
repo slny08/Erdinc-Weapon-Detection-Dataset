@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Soldier_with_Bazooka_M1_jpg.rf.48dd6fa8c33c089bab4ae85911de5aef.jpg</filename>
+	<path>Soldier_with_Bazooka_M1_jpg.rf.48dd6fa8c33c089bab4ae85911de5aef.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bazooka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>18</xmin>
+			<xmax>641</xmax>
+			<ymin>146</ymin>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

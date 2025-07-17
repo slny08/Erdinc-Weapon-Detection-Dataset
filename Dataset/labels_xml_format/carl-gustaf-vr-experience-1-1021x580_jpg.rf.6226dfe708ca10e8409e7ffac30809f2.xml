@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>carl-gustaf-vr-experience-1-1021x580_jpg.rf.6226dfe708ca10e8409e7ffac30809f2.jpg</filename>
+	<path>carl-gustaf-vr-experience-1-1021x580_jpg.rf.6226dfe708ca10e8409e7ffac30809f2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bazooka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>9</xmin>
+			<xmax>623</xmax>
+			<ymin>279</ymin>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

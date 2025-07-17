@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>181225baltimore-gun-buypack-rocket-launcher-1_jpg.rf.cdcaba31388f90503b089bd225d2ca45.jpg</filename>
+	<path>181225baltimore-gun-buypack-rocket-launcher-1_jpg.rf.cdcaba31388f90503b089bd225d2ca45.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bazooka</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>18</xmin>
+			<xmax>614</xmax>
+			<ymin>126</ymin>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
